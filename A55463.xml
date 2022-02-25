@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popish Plot more fully discovered being a full account of a damnable and bloody design of murdering His Sacred Majesty : in an information lately taken by a member of the Honourable House of Commons : together with a brief relation of the horrid equivocation of a popish priest lately executed at Dublin in Ireland : published for the confirming of weak and doubting Protestants.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55463</idno>
+            <idno type="STC">Wing P2955</idno>
+            <idno type="STC">ESTC R8778</idno>
+            <idno type="EEBO-CITATION">13737045</idno>
+            <idno type="OCLC">ocm 13737045</idno>
+            <idno type="VID">101643</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101643)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popish Plot more fully discovered being a full account of a damnable and bloody design of murdering His Sacred Majesty : in an information lately taken by a member of the Honourable House of Commons : together with a brief relation of the horrid equivocation of a popish priest lately executed at Dublin in Ireland : published for the confirming of weak and doubting Protestants.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101643:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <p>THE <hi>POPISH PLOT</hi> MORE FULLY DISCOVERED: BEING A Full Account of a Damnable and BLOODY DESIGN of Murdering His Sacred MAJESTY.</p>
+            <p>In an Information lately taken by a Member of the HONOURABLE Houſe of COMMONS.</p>
+            <p>
+               <hi>TOGETHER</hi> With a Brief Relation of the Horrid Equivocation of a POPISH PRIEST lately Executed at <hi>Dublin</hi> in <hi>IRELAND.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed for the Confirming of Weak and Doubting Pro<g ref="char:EOLhyphen"/>teſtants.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. B.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101643:2"/>
+            <!-- PDF PAGE 56 -->
+            <pb n="3" facs="tcp:101643:2"/>
+            <!-- PDF PAGE 56 -->
+            <head>THE <hi>POPISH PLOT</hi> MORE FULLY DISCOVERED.</head>
+            <p>NOtwithſtanding the Impudence of the Popiſh Party both living and dying, in denying that they know any thing of a Plot, either to Murder His Majeſty, or to bring in Popery and ſubvert the Pro<g ref="char:EOLhyphen"/>teſtant Religion; and that their Church Hectors lately deſervedly Executed, have againſt the cleareſt Evidence had the Confidence to venture their Damnation vpon a Lye, with that Canting Expreſſion, <hi>That they are as clear as the Child unborn;</hi> and who though they are admired by their Fel<g ref="char:EOLhyphen"/>lows as Saints and Martyrs, do truly deſerve Admiration for nothing ſo much as that height of Atheiſme and Villany they have arrived to, ſo as to think to mock the Almighty God only to attain the Praiſe and Applauſe of men.</p>
+            <p>Yet the Divine Providence, which is always watchfull for the Safety and Preſervation of all thoſe who really Truſt therein, has been pleaſed wonder<g ref="char:EOLhyphen"/>fully to multiply and ſtrengthen the Evidence of this Horrid and Damnable Conſpiracy, as will appear by this following Relation.</p>
+            <p>A few days ſince there came a Perſon to a Member of the Honourable Houſe of Commons living in <hi>London,</hi> named <hi>Clement Cane,</hi> who gave this Account of himſelf. That he lived with a Knight in <hi>Cumberland,</hi> who was a <hi>Roman</hi> Catholick, and that this Knight had lately ſhewn him more than ordinary kindneſs and countenance, and put him into a handſome Livelyhood: having thus obliged him, that the Knight thought he could not handſomely refuſe to do any thing he ſhould propoſe to him. He took the opportunity to Diſcourſe with this Per<g ref="char:EOLhyphen"/>ſon, propoſing to him ſome ways for his further Advancement in the World, and having before prepared him (as is ſuppoſed) by telling him that what he was to do would be very neceſſary and advantagious to the Advancement of the Intereſt of Holy Church, and the <hi>Deſign</hi> (as St. <hi>Whitebread</hi> has it) wherein they were all engaged; This Knight had then the boldneſs to propoſe to this Perſon, The Murder of his Sacred Majeſty, wherein ſeveral others (it is ſaid 16 or 17) beſides himſelf were to be engaged; and than the Reward for their Curſed Service, was to be a Thouſand Pound to each Perſon, and ways and methods were propoſed for perpetrating this horrid Villany, which was to have been committed the 30th. day of <hi>May</hi> laſt paſt.</p>
+            <p>When this Perſon heard this Damnable Propoſition, he was ſtartled and aſtoniſhed at the Motion, and alleaged to his Maſter, That it was a thing con<g ref="char:EOLhyphen"/>trary to their Religion as well as all others, to commit ſuch curſed Actions. The Maſter perſiſted by many Arguments to demonſtrate the Lawfulneſs and Neceſſity of it, but finding this Perſon Immoveable and Reſolved never to be concern'd, upon any unholy plauſible pretences whatſoever; He told him that by diſcovering thus much to him, he had put his Life into his hands, and
+<pb n="4" facs="tcp:101643:3"/>
+               <!-- PDF PAGE 57 -->that this Perſon, would find it his ſafeſt way not to diſcover or take notice of any diſcourſe paſſed betwixt them upon that Subject.</p>
+            <p>This Perſon being much concerned at what he had heard, and fearing the Knight or ſome other might take the opportunity to accuſe him firſt thereby to excuſe themſelves; He took the firſt occaſion that offered to pretend a Jour<g ref="char:EOLhyphen"/>ney into <hi>Lancaſhire,</hi> but being got out of the Reach of the Knight, he Imme<g ref="char:EOLhyphen"/>diatly haſtned to <hi>London,</hi> and voluntarily rendred himſelf to the Honourable Member of Parliament aforementioned, who having taken his Information upon Oath, we may ſuppoſe both will be ſuddenly Tranſmitted to the Conſi<g ref="char:EOLhyphen"/>deration of his Majeſty, and his Moſt Honourable Privy Council.</p>
+            <p>Thus the Divine Goodneſs has not left us without witneſs to Strengthen True Chriſtians and Proteſtants in the belief of this Curſed Attempt, which is now ſo clear and apparent that none but Papiſts (whoſe Religion it is to deny four of their Senſes in their Sacrament as they call it; that is their Seeing, Smel<g ref="char:EOLhyphen"/>ling, Taſting and feeling;) have not the leaſt Reaſon to deny it, or doubt of it.</p>
+            <p>Therefore let not any weak Proteſtants be ſtartled at the Confidence of thoſe, (who as we ſaid before) have lately dared to defie Heaven with a falſhood at the laſt gaſp; which Dr. <hi>Ezrael Tongue</hi> (the firſt diſcover of the Plot to His Majeſty) has ſufficiently expoſed in a late Paper: Since we have this Remarkable Account from <hi>Ireland,</hi> which is of undoubted Credit, and not to be denyed even by a Papiſt.</p>
+            <p>The Relation in Brief is this: That there was a <hi>Popiſh Prieſt</hi> Executed in <hi>Dublin</hi> (while the Earl of <hi>Eſſex</hi> was Governour there) upon the cleareſt Evi<g ref="char:EOLhyphen"/>dence and Conviction imaginable, who yet abſolutely denyed himſelf to be in the leaſt Guilty of the Fact he was Charged with, but the Halter breaking as ſoon as he was turn'd off the Ladder, and he thereupon recovering his Senſes, begg'd a quarter of an hours reſpite to Pray, and then Confeſſed, That he was Abſolved by ſome Prieſts of his own Order before he was turn'd off, and therefore he could ſafely ſay he was not Guilty; but that he now be<g ref="char:EOLhyphen"/>ing come to Life again as it were, he thought that it was abſolutely Neceſſary he ſhould be again Abſolved and Pardoned; but judging it impoſſible to procure a Prieſt for that purpoſe before he was Hanged again, which he im<g ref="char:EOLhyphen"/>mediately expected, and having none now to Confeſs unto but God only: He did then Publickly Confeſs himſelf Guilty of the Fact which he had juſt before ſo deſperately denyed, even to Death.</p>
+            <p>This was done in the hearing of many Eminent Lords, Gentlemen, and other Perſons of all Degrees and Qualities; ſo that it can hardly be imagined what this ſort of Men can Invent to palliate it: And as Dr. <hi>Tongue</hi> very well Obſerves, ſince one of them had the Impudence to ſay, That only one of their Authors ever promoted the Doctrine of Killing of Kings, which is an Abſolute and down-right Lye, ſince it may be Proved (and <hi>Gavan</hi> being a Jeſuite, cannot with any Reaſon be ſuppoſed to be Ignorant thereof) that ſe<g ref="char:EOLhyphen"/>veral of their Popes, Councils, and Doctors did both promote and put in practiſe the ſame Damnable Opinions. What cauſe have we who are Prote<g ref="char:EOLhyphen"/>ſtants, to be ſo Fooliſhly Charitable, to think that any of the reſt of their Harangues have more Truth or Reality in them, ſince it is an Eternal Maxime of that Synagogue of <hi>Satan,</hi> the <hi>Romiſh</hi> Church, That all things are Lawful in order to the promoting the Intereſt thereof.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
